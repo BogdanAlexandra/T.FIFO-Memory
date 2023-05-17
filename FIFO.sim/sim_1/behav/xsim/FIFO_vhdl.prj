@@ -1,0 +1,14 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../FIFO.srcs/sources_1/new/7_SEGMENT.vhd" \
+"../../../../FIFO.srcs/sources_1/new/ADDRESS_POINTERS.vhd" \
+"../../../../FIFO.srcs/sources_1/new/C4UD.vhd" \
+"../../../../FIFO.srcs/sources_1/new/CONTROL.vhd" \
+"../../../../FIFO.srcs/sources_1/new/DEBOUNCER.vhd" \
+"../../../../FIFO.srcs/sources_1/new/FIFO_MEMORY.vhd" \
+"../../../../FIFO.srcs/sources_1/new/RAM_MEMORY.vhd" \
+"../../../../FIFO.srcs/sources_1/new/STATE.vhd" \
+"../../../../FIFO.srcs/sources_1/new/FIFO.vhd" \
+
+# Do not sort compile order
+nosort

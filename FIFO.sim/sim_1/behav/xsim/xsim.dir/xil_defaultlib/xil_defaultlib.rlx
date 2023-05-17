@@ -1,0 +1,13 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/alexa/OneDrive/Desktop/FIFO/FIFO.srcs/sources_1/new/7_SEGMENT.vhd,1620845708,vhdl,,,,segdisp,,,,,,,,
+C:/Users/alexa/OneDrive/Desktop/FIFO/FIFO.srcs/sources_1/new/ADDRESS_POINTERS.vhd,1620746682,vhdl,,,,c4u_rd;c4u_wr,,,,,,,,
+C:/Users/alexa/OneDrive/Desktop/FIFO/FIFO.srcs/sources_1/new/C4UD.vhd,1620746710,vhdl,,,,c4ud,,,,,,,,
+C:/Users/alexa/OneDrive/Desktop/FIFO/FIFO.srcs/sources_1/new/CONTROL.vhd,1667121447,vhdl,,,,control,,,,,,,,
+C:/Users/alexa/OneDrive/Desktop/FIFO/FIFO.srcs/sources_1/new/DEBOUNCER.vhd,1620746744,vhdl,,,,debouncer,,,,,,,,
+C:/Users/alexa/OneDrive/Desktop/FIFO/FIFO.srcs/sources_1/new/FIFO.vhd,1620748482,vhdl,,,,fifo,,,,,,,,
+C:/Users/alexa/OneDrive/Desktop/FIFO/FIFO.srcs/sources_1/new/FIFO_MEMORY.vhd,1620746784,vhdl,,,,working_mem,,,,,,,,
+C:/Users/alexa/OneDrive/Desktop/FIFO/FIFO.srcs/sources_1/new/RAM_MEMORY.vhd,1620746798,vhdl,,,,ram_memory,,,,,,,,
+C:/Users/alexa/OneDrive/Desktop/FIFO/FIFO.srcs/sources_1/new/STATE.vhd,1620746824,vhdl,,,,state,,,,,,,,
